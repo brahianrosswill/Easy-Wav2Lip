@@ -11,7 +11,7 @@ librosa==0.10.1
 moviepy==1.0.3
 numpy==1.26.1
 opencv-python==4.8.1.78
-scipy==1.11.3
+scipy==1.11.4
 --extra-index-url https://download.pytorch.org/whl/cu121
 torch==2.1.2
 torchaudio==2.1.2
